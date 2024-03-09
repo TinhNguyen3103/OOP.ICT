@@ -1,3 +1,3 @@
-# OOP.ICT - AISM Project
+# OOP.ICT - AIMS Project
 
 ![alt text](https://github.com/TinhNguyen3103/OOP.ICT/blob/master/Lab02/AIMS_Project.png?raw=true)
